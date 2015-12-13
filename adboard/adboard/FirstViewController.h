@@ -10,6 +10,8 @@
 
 @interface FirstViewController : UIViewController
 
+@property (strong) NSString *string;
+
 
 @end
 
